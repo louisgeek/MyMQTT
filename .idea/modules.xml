@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyMQTT.iml" filepath="$PROJECT_DIR$/MyMQTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymqttserver/mymqttserver.iml" filepath="$PROJECT_DIR$/mymqttserver/mymqttserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymqttserverraw/mymqttserverraw.iml" filepath="$PROJECT_DIR$/mymqttserverraw/mymqttserverraw.iml" />
+    </modules>
+  </component>
+</project>
